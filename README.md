@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Ld00d/cycle.svg?branch=master)](https://travis-ci.org/Ld00d/cycle)
+
 # Cycle 
 
 Cycle is a collection of modules that will eventually comprise a full product development suite.
