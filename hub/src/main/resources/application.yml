@@ -1,0 +1,16 @@
+server:
+    port: 8080
+    servlet.context-path: /api/hub
+
+logging:
+  level: 
+    me.thegirlsand.cycle: WARN
+
+---
+spring:
+    profiles: dev
+
+logging:
+  level:
+    me.thegirlsand.cycle: DEBUG
+
